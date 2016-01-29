@@ -1,0 +1,20 @@
+#fox {
+	height: 100%;
+	width: 100%;
+}
+
+#cspan-wrapper {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	height: 300px;
+	width: 400px;
+	overflow: hidden;
+	border: 2px solid black;
+}
+
+#cspan {
+	margin-top: -420px;
+	width: 400px;
+	height: 1000px;
+}
